@@ -1,8 +1,10 @@
 # Padrão de Commits
 
-Segue a estrutura padrão de [Conventional Commits](https://www.convetionalcommits.org/):
+Segue a estrutura padrão de [Conventional Commits](https://www.conventionalcommits.org/):
 
+```text
 <tipo>(escopo opcional): descrição breve
+```
 
 ## Tipos Principais
 
